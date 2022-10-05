@@ -8,8 +8,14 @@
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
       
-        <content type="html"><![CDATA[<h1 id="开篇"><a href="#开篇" class="headerlink" title="开篇"></a>开篇</h1><pre><code>&gt; 这是继之前一次建博客失败后的又一次搭建这次搭建顺畅很多，看得懂报错了，明白命令的意义了已2022/10/05 12:00:00作为一个新的开端之后会不定时将自己的学习笔记分享在此</code></pre>]]></content>
+        <content type="html"><![CDATA[<h1 id="开篇"><a href="#开篇" class="headerlink" title="开篇"></a>开篇</h1><pre><code>&gt; 这是继之前一次建博客失败后的又一次搭建这次搭建顺畅很多，看得懂报错了，明白命令的意义了以2022/10/05 12:00:00作为一个新的开端之后会不定时将自己的学习笔记分享在此</code></pre>]]></content>
       
+      
+      <categories>
+          
+          <category> first </category>
+          
+      </categories>
       
       
         <tags>
@@ -37,6 +43,17 @@
     
     
     <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -49,10 +66,32 @@
     
     <entry>
       <title></title>
-      <link href="/css/runtime/runtime.min.css"/>
-      <url>/css/runtime/runtime.min.css</url>
+      <link href="/js/title.js"/>
+      <url>/js/title.js</url>
       
-        <content type="html"><![CDATA[div#runtime{width:180px;margin:auto;color:#fff;padding-inline:5px;border-radius:10px;background-color:rgba(0,0,0,.7)}#workboard{font-size:12px}[data-theme=dark] div#runtime{color:#28b4c8;box-shadow:0 0 5px rgba(28,69,218,.71);animation:flashlight 1s linear infinite alternate}#ghbdages .github-badge img{height:20px}@-moz-keyframes flashlight{from{box-shadow:0 0 5px #1478d2}to{box-shadow:0 0 2px #1478d2}}@-webkit-keyframes flashlight{from{box-shadow:0 0 5px #1478d2}to{box-shadow:0 0 2px #1478d2}}@-o-keyframes flashlight{from{box-shadow:0 0 5px #1478d2}to{box-shadow:0 0 2px #1478d2}}@keyframes flashlight{from{box-shadow:0 0 5px #1478d2}to{box-shadow:0 0 2px #1478d2}}]]></content>
+        <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener('visibilitychange', function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = 'w(ﾟДﾟ)w 不要走！再看看嘛！';    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = '♪(^∇^*)欢迎肥来！' + OriginTitile;    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -60,10 +99,21 @@
     
     <entry>
       <title></title>
-      <link href="/js/runtime/runtime.min.js"/>
-      <url>/js/runtime/runtime.min.js</url>
+      <link href="/css/runtime/runtime.css"/>
+      <url>/css/runtime/runtime.css</url>
       
-        <content type="html"><![CDATA[var now=new Date;function createtime(){    var t=new Date("10/05/2022 12:00:00");    now.setTime(now.getTime()+250);    var e=(now-t)/1e3/60/60/24,a=Math.floor(e),n=(now-t)/1e3/60/60-24*a,r=Math.floor(n);1==String(r).length&&(r="0"+r);    var s=(now-t)/1e3/60-1440*a-60*r,i=Math.floor(s);    1==String(i).length&&(i="0"+i);    var o=(now-t)/1e3-86400*a-3600*r-60*i,l=Math.round(o);    1==String(l).length&&(l="0"+l);    let g="";    g=r<18&&r>=9?`<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-上班摸鱼中.svg' title='N13Saxion'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`:`<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-下班啦.svg' title='N13Saxion'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=g)    }setInterval((()=>{createtime()}),250);]]></content>
+        <content type="html"><![CDATA[div#runtime {    width: 180px;    margin: auto;    color: #fff;    padding-inline: 5px;    border-radius: 10px;    background-color: rgba(0, 0, 0, .7)}#workboard {    font-size: 12px}[data-theme=dark] div#runtime {    color: #28b4c8;    box-shadow: 0 0 5px rgba(28, 69, 218, .71);    animation: flashlight 1s linear infinite alternate}#ghbdages .github-badge img {    height: 20px}@-moz-keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2    }    to {        box-shadow: 0 0 2px #1478d2    }}@-webkit-keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2    }    to {        box-shadow: 0 0 2px #1478d2    }}@-o-keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2    }    to {        box-shadow: 0 0 2px #1478d2    }}@keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2    }    to {        box-shadow: 0 0 2px #1478d2    }}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/runtime/runtime.js"/>
+      <url>/js/runtime/runtime.js</url>
+      
+        <content type="html"><![CDATA[var now = new Date;function createtime() {    var t = new Date("10/05/2022 12:00:00");    now.setTime(now.getTime() + 250);    var e = (now - t) / 1e3 / 60 / 60 / 24, a = Math.floor(e), n = (now - t) / 1e3 / 60 / 60 - 24 * a, r = Math.floor(n); 1 == String(r).length && (r = "0" + r);    var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r, i = Math.floor(s);    1 == String(i).length && (i = "0" + i);    var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i, l = Math.round(o);    1 == String(l).length && (l = "0" + l);    let g = "";    g = r < 18 && r >= 9 ? `<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-上班摸鱼中.svg' title='N13Saxion'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>` : `<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-下班啦.svg' title='N13Saxion'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`, document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = g)}setInterval((() => { createtime() }), 250);]]></content>
       
     </entry>
     
