@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-05T17:09:48.110Z</updated>
+  <updated>2022-10-05T17:11:08.310Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/posts/4a17b156.html"/>
     <id>http://example.com/posts/4a17b156.html</id>
     <published>2022-10-05T12:00:00.000Z</published>
-    <updated>2022-10-05T17:09:48.110Z</updated>
+    <updated>2022-10-05T17:11:08.310Z</updated>
     
     <content type="html"><![CDATA[<h1 id="开篇"><a href="#开篇" class="headerlink" title="开篇"></a>开篇</h1><pre><code>&gt; 这是继之前一次建博客失败后的又一次搭建这次搭建顺畅很多，看得懂报错了，明白命令的意义了以2022/10/05 12:00:00作为一个新的开端之后会不定时将自己的学习笔记分享在此</code></pre>]]></content>
     
