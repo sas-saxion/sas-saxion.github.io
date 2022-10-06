@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>教程 | 教大家如何科学上网</title>
+      <link href="/posts/7670694d.html"/>
+      <url>/posts/7670694d.html</url>
+      
+        <content type="html"><![CDATA[<p>声明：本教程仅用于教学目的，请勿用于违法犯罪活动，否则自行承担后果。</p><h2 id="0X01-前言"><a href="#0X01-前言" class="headerlink" title="0X01 前言"></a>0X01 前言</h2><p>作为网安学习者，经常需要使用一些特殊的搜索引擎，如Google、Shodan等，或去看一些gw的安全漏洞资讯、技术文章等，就不得不学会科学上网，以及在渗透测试中，为了隐藏踪迹，保护自己，这一步都是必不可少的（记得开全局代理！！！）</p><h2 id="0X02-代理工具及配置使用"><a href="#0X02-代理工具及配置使用" class="headerlink" title="0X02 代理工具及配置使用"></a>0X02 代理工具及配置使用</h2><p>本文章仅对clash进行推荐及教学</p><ol><li>下载clash代理管理工具（可去GitHub上下载，也可在公众号回复“clash”获取已打包好的进行下载）</li></ol><ol><li>安装完成软件后</li></ol><ol><li>然后点击 Proxies ，点击 Rule ，选择合适的代理，一般我们推荐Pro的</li></ol><blockquote><p> 左侧显示绿色的竖线，代表是已经成功选中</p></blockquote><p><img src="https://s2.loli.net/2022/10/06/Z3DBh8dpluKjYSk.webp" alt=""></p><p><img src="https://s2.loli.net/2022/10/06/yqi2YsFXo97fcUt.webp" alt="4f8f221a02014bbdedd1e189db8da11f-sz_75297.jpg"></p><ol><li>最后设置开启代理和开机启动。</li></ol><p><img src="https://s2.loli.net/2022/10/06/53m1QhuNFkvjL9K.webp" alt="15dc75d446a82e8440485d13ada970c4-sz_64934.jpg"></p><h2 id="0X03代理推荐"><a href="#0X03代理推荐" class="headerlink" title="0X03代理推荐"></a>0X03代理推荐</h2><p>在这里推荐几个我使用过感觉不错的机场</p><p>一般情况下，看油管的4k视频都是可以跑到1万多kbps,且不限制同时在线设备.</p><p><img src="https://s2.loli.net/2022/10/06/wFCtAPqsbNuanly.webp" alt="6628a1e268af3fd81cd5befe92dd171e-sz_2280163.jpg"></p><p><img src="https://s2.loli.net/2022/10/06/s2GgZCwm9HkODWe.webp" alt="d21d1745c7ad00d57333a8f0148dd7fe-sz_2722536.jpg"></p><p>树洞</p><p>该网站只有会员邀请才可以注册，链接及邀请码都在下面了</p><p><a href="https://nihao-shudong.com/auth/register?code=0vGT">https://nihao-shudong.com/auth/register?code=0vGT</a></p><p>蜂巢</p><p><a href="https://98ka.men/#/register?code=NkOZGbQc">https://98ka.men/#/register?code=NkOZGbQc</a></p><p>再分享一些免费的订阅url，自行考虑选择</p><p><a href="https://free.dswang.ga/clash/config">https://free.dswang.ga/clash/config</a></p><p><a href="https://sspool.herokuapp.com/clash/config">https://sspool.herokuapp.com/clash/config</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 科学上网 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 科学上网 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
       
-        <content type="html"><![CDATA[<h1 id="开篇"><a href="#开篇" class="headerlink" title="开篇"></a>开篇</h1><pre><code>&gt; 这是继之前一次建博客失败后的又一次搭建这次搭建顺畅很多，看得懂报错了，明白命令的意义了以2022/10/05 12:00:00作为一个新的开端之后会不定时将自己的学习笔记分享在此</code></pre>]]></content>
+        <content type="html"><![CDATA[<h1 id="开篇"><a href="#开篇" class="headerlink" title="开篇"></a>开篇</h1><blockquote><p>  这是继之前一次建博客失败，数月后的又一次搭建</p><p>  这次搭建顺畅很多，看得懂报错了，明白命令的意义了</p><p>  以2022/10/05 12:00:00作为一个新的开端</p><p>  之后会将公众号上自己的内容同步更新于此</p></blockquote>]]></content>
       
       
       <categories>
@@ -43,6 +68,17 @@
     
     
     <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -59,17 +95,6 @@
       <url>/css/custom.css</url>
       
         <content type="html"><![CDATA[/* @font-face {  font-family: Candyhome;  src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/Candyhome.ttf);  font-display: swap;  font-weight: lighter;} */@font-face {    font-family: ZhuZiAYuanJWD;    src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/ZhuZiAWan.woff2);    font-display: swap;    font-weight: lighter;  }    div#menus {    font-family: 'ZhuZiAYuanJWD';  }  h1#site-title {    font-family: ZhuZiAYuanJWD;    font-size: 3em !important;  }  a.article-title,  a.blog-slider__title,  a.categoryBar-list-link,  h1.post-title {    font-family: ZhuZiAYuanJWD;  }    .iconfont {    font-family: 'iconfont' !important;    font-size: 3em;    /* 可以定义图标大小 */    font-style: normal;    -webkit-font-smoothing: antialiased;    -moz-osx-font-smoothing: grayscale;  }    /* 时间轴生肖icon */  svg.icon {    /* 这里定义svg.icon，避免和Butterfly自带的note标签冲突 */    width: 1em;    height: 1em;    /* width和height定义图标的默认宽度和高度*/    vertical-align: -0.15em;    fill: currentColor;    overflow: hidden;  }    .icon-zhongbiao::before {    color: #f7c768;  }    /* 解决artitalk的图标问题 */  #uploadSource > svg {    width: 1.19em;    height: 1.5em;  }    /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */  #page-header:not(.not-top-img):before {    background-color: transparent !important;  }    /* 首页文章卡片 */  #recent-posts > .recent-post-item {    background: rgba(255, 255, 255, 0.9);  }    /* 首页侧栏卡片 */  #aside-content .card-widget {    background: rgba(255, 255, 255, 0.9);  }    /* 文章页面正文背景 */  div#post {    background: rgba(255, 255, 255, 0.9);  }    /* 分页页面 */  div#page {    background: rgba(255, 255, 255, 0.9);  }    /* 归档页面 */  div#archive {    background: rgba(255, 255, 255, 0.9);  }    /* 标签页面 */  div#tag {    background: rgba(255, 255, 255, 0.9);  }    /* 分类页面 */  div#category {    background: rgba(255, 255, 255, 0.9);  }    /*夜间模式伪类遮罩层透明*/  [data-theme='dark'] #recent-posts > .recent-post-item {    background: #121212;  }    [data-theme='dark'] .card-widget {    background: #121212 !important;  }    [data-theme='dark'] div#post {    background: #121212 !important;  }    [data-theme='dark'] div#tag {    background: #121212 !important;  }    [data-theme='dark'] div#archive {    background: #121212 !important;  }    [data-theme='dark'] div#page {    background: #121212 !important;  }    [data-theme='dark'] div#category {    background: #121212 !important;  }    [data-theme='dark'] div#category {    background: transparent !important;  }  /* 页脚透明 */  #footer {    background: transparent !important;  }    /* 头图透明 */  #page-header {    background: transparent !important;  }    #rightside > div > button {    border-radius: 5px;  }    /* 滚动条 */    ::-webkit-scrollbar {    width: 10px;    height: 10px;  }    ::-webkit-scrollbar-thumb {    background-color: #425aef;    border-radius: 2em;  }    ::-webkit-scrollbar-corner {    background-color: transparent;  }    ::-moz-selection {    color: #fff;    background-color: #425aef;  }    /* 音乐播放器 */    /* .aplayer .aplayer-lrc {    display: none !important;  } */    .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {    left: -66px !important;    transition: all 0.3s;    /* 默认情况下缩进左侧66px，只留一点箭头部分 */  }    .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {    left: 0 !important;    transition: all 0.3s;    /* 鼠标悬停是左侧缩进归零，完全显示按钮 */  }    .aplayer.aplayer-fixed {    z-index: 999999 !important;  }    /* 评论框  */  .vwrap {    box-shadow: 2px 2px 5px #bbb;    background: rgba(255, 255, 255, 0.3);    border-radius: 8px;    padding: 30px;    margin: 30px 0px 30px 0px;  }    /* 设置评论框 */    .vcard {    box-shadow: 2px 2px 5px #bbb;    background: rgba(255, 255, 255, 0.3);    border-radius: 8px;    padding: 30px;    margin: 30px 0px 0px 0px;  }    /* 鼠标图标 */  body {    cursor: url('/img/x1.cur'), auto;  }  a,  [type='button']:not(:disabled),  [type='reset']:not(:disabled),  [type='submit']:not(:disabled),  button:not(:disabled) {    cursor: url('/img/x2.cur'), auto !important;  }  /* md网站下划线 */  #article-container a:hover {    text-decoration: none !important;  }    #article-container #hpp_talk p img {    display: inline;  }    /* 404页面 */  #error-wrap {    position: absolute;    top: 40%;    right: 0;    left: 0;    margin: 0 auto;    padding: 0 1rem;    max-width: 1000px;    transform: translate(0, -50%);  }    #error-wrap .error-content {    display: flex;    flex-direction: row;    justify-content: center;    align-items: center;    margin: 0 1rem;    height: 18rem;    border-radius: 8px;    background: var(--card-bg);    box-shadow: var(--card-box-shadow);    transition: all 0.3s;  }    #error-wrap .error-content .error-img {    box-flex: 1;    flex: 1;    height: 100%;    border-top-left-radius: 8px;    border-bottom-left-radius: 8px;    background-color: #425aef;    background-position: center;    background-size: cover;  }    #error-wrap .error-content .error-info {    box-flex: 1;    flex: 1;    padding: 0.5rem;    text-align: center;    font-size: 14px;    font-family: Titillium Web, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;  }  #error-wrap .error-content .error-info .error_title {    margin-top: -4rem;    font-size: 9em;  }  #error-wrap .error-content .error-info .error_subtitle {    margin-top: -3.5rem;    word-break: break-word;    font-size: 1.6em;  }  #error-wrap .error-content .error-info a {    display: inline-block;    margin-top: 0.5rem;    padding: 0.3rem 1.5rem;    background: var(--btn-bg);    color: var(--btn-color);  }    #body-wrap.error .aside-list {    display: flex;    flex-direction: row;    flex-wrap: nowrap;    bottom: 0px;    position: absolute;    padding: 1rem;    width: 100%;    overflow: scroll;  }    #body-wrap.error .aside-list .aside-list-group {    display: flex;    flex-direction: row;    flex-wrap: nowrap;    max-width: 1200px;    margin: 0 auto;  }    #body-wrap.error .aside-list .aside-list-item {    padding: 0.5rem;  }    #body-wrap.error .aside-list .aside-list-item img {    width: 100%;    object-fit: cover;    border-radius: 12px;  }    #body-wrap.error .aside-list .aside-list-item .thumbnail {    overflow: hidden;    width: 230px;    height: 143px;    background: var(--heo-card-bg);    display: flex;  }    #body-wrap.error .aside-list .aside-list-item .content .title {    -webkit-line-clamp: 2;    overflow: hidden;    display: -webkit-box;    -webkit-box-orient: vertical;    line-height: 1.5;    justify-content: center;    align-items: flex-end;    align-content: center;    padding-top: 0.5rem;    color: white;  }    #body-wrap.error .aside-list .aside-list-item .content time {    display: none;  }    /* 代码框主题 */  #article-container figure.highlight {    border-radius: 10px;  }  ]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/title.js"/>
-      <url>/js/title.js</url>
-      
-        <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener('visibilitychange', function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = 'w(ﾟДﾟ)w 不要走！再看看嘛！';    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = '♪(^∇^*)欢迎肥来！' + OriginTitile;    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
       
     </entry>
     
@@ -110,10 +135,21 @@
     
     <entry>
       <title></title>
+      <link href="/js/diytitle/diytitle.js"/>
+      <url>/js/diytitle/diytitle.js</url>
+      
+        <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener('visibilitychange', function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = 'w(ﾟДﾟ)w 不要走！再看看嘛！';    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = '♪(^∇^*)欢迎肥来！' + OriginTitile;    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/js/runtime/runtime.js"/>
       <url>/js/runtime/runtime.js</url>
       
-        <content type="html"><![CDATA[var now = new Date;function createtime() {    var t = new Date("10/05/2022 12:00:00");    now.setTime(now.getTime() + 250);    var e = (now - t) / 1e3 / 60 / 60 / 24, a = Math.floor(e), n = (now - t) / 1e3 / 60 / 60 - 24 * a, r = Math.floor(n); 1 == String(r).length && (r = "0" + r);    var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r, i = Math.floor(s);    1 == String(i).length && (i = "0" + i);    var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i, l = Math.round(o);    1 == String(l).length && (l = "0" + l);    let g = "";    g = r < 18 && r >= 9 ? `<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-上班摸鱼中.svg' title='N13Saxion'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>` : `<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/安知鱼-下班啦.svg' title='N13Saxion'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`, document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = g)}setInterval((() => { createtime() }), 250);]]></content>
+        <content type="html"><![CDATA[var now = new Date;function createtime() {    var t = new Date("10/05/2022 12:00:00");    now.setTime(now.getTime() + 250);    var e = (now - t) / 1e3 / 60 / 60 / 24, a = Math.floor(e), n = (now - t) / 1e3 / 60 / 60 - 24 * a, r = Math.floor(n); 1 == String(r).length && (r = "0" + r);    var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r, i = Math.floor(s);    1 == String(i).length && (i = "0" + i);    var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i, l = Math.round(o);    1 == String(l).length && (l = "0" + l);    let g = "";    g = r < 18 && r >= 9 ? `<img class='boardsign' src='https://img.shields.io/badge/N13Saxion-Blog-blue' title='N13Saxion'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>` : `<img class='boardsign' src='https://img.shields.io/badge/N13Saxion-Blog-blue' title='N13Saxion'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`, document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = g)}setInterval((() => { createtime() }), 250);]]></content>
       
     </entry>
     
